@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaMaN0726
-- 👀 I’m interested in .ACCA and Developer..
-- 🌱 I’m currently learning Java and ACCA.
+- 👀 I’m graduated ACCA 
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Google...
 - 📫 How to reach me 900056611...
 
